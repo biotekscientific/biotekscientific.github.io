@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="biotekscientific.github.io" resolutions="1x" timestamp="1549922746487">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="biotekscientific.github.io" resolutions="1x" timestamp="1549922938199">
   <folder name="css">
     <file name="site_global.css" crc="321027708"/>
     <file name="master_a-master.css" crc="3852082486" ref="contact-us:get-screened:our-vision:index:terms-of-use:privacy-policy:services"/>
-    <file name="contact-us.css" crc="4081666812" ref="contact-us"/>
-    <file name="get-screened.css" crc="4044679332" ref="get-screened"/>
-    <file name="our-vision.css" crc="339455579" ref="our-vision"/>
-    <file name="index.css" crc="4101464200" ref="index"/>
-    <file name="terms-of-use.css" crc="381534124" ref="terms-of-use"/>
-    <file name="privacy-policy.css" crc="4272566745" ref="privacy-policy"/>
-    <file name="services.css" crc="4136859484" ref="services"/>
+    <file name="contact-us.css" crc="481433624" ref="contact-us"/>
+    <file name="get-screened.css" crc="3972362676" ref="get-screened"/>
+    <file name="our-vision.css" crc="246119033" ref="our-vision"/>
+    <file name="index.css" crc="4209456786" ref="index"/>
+    <file name="terms-of-use.css" crc="295963020" ref="terms-of-use"/>
+    <file name="privacy-policy.css" crc="532838082" ref="privacy-policy"/>
+    <file name="services.css" crc="3913757733" ref="services"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:privacy-policy:contact-us:get-screened:our-vision:services:terms-of-use"/>
@@ -27,15 +27,15 @@
     <file name="form-u798.php" crc="73918163" ref="contact-us"/>
   </folder>
   <folder name="images">
+    <file name="u116-4.png" crc="3784216521" ref="index"/>
     <file name="chip_logo.svg" crc="126253584" ref="index:privacy-policy:contact-us:get-screened:our-vision:services:terms-of-use"/>
     <file name="chip_logo_poster_u546.png" crc="173394277" ref="index:privacy-policy:contact-us:get-screened:our-vision:services:terms-of-use"/>
-    <file name="u116-4.png" crc="3784216521" ref="index"/>
     <file name="title_fig1.png" crc="3781219801" ref="index:contact-us:get-screened:our-vision:services">
       <caption webpage="index" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="get-screened" alt=""/>
-      <caption webpage="services" alt=""/>
       <caption webpage="our-vision" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="get-screened" alt=""/>
     </file>
     <file name="u122-4.png" crc="3801171122" ref="index"/>
     <file name="our_vision.svg" crc="4183527370" ref="index"/>
@@ -79,11 +79,11 @@
     <file name="u2816-4.png" crc="182788872" ref="terms-of-use"/>
     <file name="u2817-65.png" crc="325680997" ref="terms-of-use"/>
   </folder>
-  <file name="index.html" crc="4052189718" seo="true" mt="1549922418957" redirect="true"/>
-  <file name="privacy-policy.html" crc="305249742" seo="true" mt="1549922418960" redirect="true"/>
-  <file name="contact-us.html" crc="4294835626" seo="true" mt="1549922683765" redirect="true"/>
-  <file name="get-screened.html" crc="43025093" seo="true" mt="1549922418958" redirect="true"/>
-  <file name="our-vision.html" crc="4106195859" seo="true" mt="1549922418966" redirect="true"/>
-  <file name="services.html" crc="3889735754" seo="true" mt="1549922418980" redirect="true"/>
-  <file name="terms-of-use.html" crc="3999948602" seo="true" mt="1549922418778" redirect="true"/>
+  <file name="index.html" crc="4026892964" seo="true" mt="1549922838585" redirect="true"/>
+  <file name="privacy-policy.html" crc="3798660359" seo="true" mt="1549922889706" redirect="true"/>
+  <file name="contact-us.html" crc="373697122" seo="true" mt="1549922873151" redirect="true"/>
+  <file name="get-screened.html" crc="530616046" seo="true" mt="1549922881308" redirect="true"/>
+  <file name="our-vision.html" crc="4110238545" seo="true" mt="1549922864152" redirect="true"/>
+  <file name="services.html" crc="3941453009" seo="true" mt="1549922853701" redirect="true"/>
+  <file name="terms-of-use.html" crc="485403657" seo="true" mt="1549922898063" redirect="true"/>
 </manifest>
