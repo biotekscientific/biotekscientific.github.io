@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="biotekscientific.github.io" resolutions="1x" timestamp="1549922206922">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="biotekscientific.github.io" resolutions="1x" timestamp="1549922473248">
   <folder name="css">
-    <file name="site_global.css" crc="4182915853"/>
+    <file name="site_global.css" crc="321027708"/>
     <file name="master_a-master.css" crc="3852082486" ref="contact-us:get-screened:our-vision:index:terms-of-use:privacy-policy:services"/>
     <file name="contact-us.css" crc="4174212773" ref="contact-us"/>
     <file name="get-screened.css" crc="4044679332" ref="get-screened"/>
@@ -78,11 +78,11 @@
     <file name="u2816-4.png" crc="182788872" ref="terms-of-use"/>
     <file name="u2817-65.png" crc="325680997" ref="terms-of-use"/>
   </folder>
-  <file name="index.html" crc="3760456823" seo="true" mt="1549921998212" redirect="true"/>
-  <file name="privacy-policy.html" crc="475623732" seo="true" mt="1549922102857" redirect="true"/>
-  <file name="contact-us.html" crc="108667005" seo="true" mt="1549922059514" redirect="true"/>
-  <file name="get-screened.html" crc="480403928" seo="true" mt="1549922082337" redirect="true"/>
-  <file name="our-vision.html" crc="256128649" seo="true" mt="1549922033012" redirect="true"/>
-  <file name="services.html" crc="109316062" seo="true" mt="1549922018169" redirect="true"/>
-  <file name="terms-of-use.html" crc="3806313906" seo="true" mt="1549922121267" redirect="true"/>
+  <file name="index.html" crc="4052189718" seo="true" mt="1549922418957" redirect="true"/>
+  <file name="privacy-policy.html" crc="305249742" seo="true" mt="1549922418960" redirect="true"/>
+  <file name="contact-us.html" crc="3892947727" seo="true" mt="1549922418962" redirect="true"/>
+  <file name="get-screened.html" crc="43025093" seo="true" mt="1549922418958" redirect="true"/>
+  <file name="our-vision.html" crc="4106195859" seo="true" mt="1549922418966" redirect="true"/>
+  <file name="services.html" crc="3889735754" seo="true" mt="1549922418980" redirect="true"/>
+  <file name="terms-of-use.html" crc="3999948602" seo="true" mt="1549922418778" redirect="true"/>
 </manifest>
