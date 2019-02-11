@@ -30,9 +30,6 @@ $form = array(
 		'from' => 'biotek.scientific+cs@gmail.com',
 		'to' => 'biotek.scientific+cs@gmail.com'
 	),
-	'recaptcha2' => array(
-		'private_key' => '6Le_x5AUAAAAAJh30WP6LqtG27MXHS1fMzUfp5ms'
-	),
 	'fields' => array(
 		'custom_U809' => array(
 			'order' => 1,
@@ -68,16 +65,6 @@ $form = array(
 			'required' => true,
 			'errors' => array(
 				'required' => 'Field \'Company\' is required.'
-			)
-		),
-		'g-recaptcha-response' => array(
-			'order' => 5,
-			'type' => 'recaptcha2',
-			'label' => 'Image Verification',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Image Verification\' is required.',
-				'format' => 'Incorrect reCAPTCHA 2.0 value.'
 			)
 		)
 	)
